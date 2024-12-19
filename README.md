@@ -1,0 +1,1 @@
+# Smart-Hackathon-Manager
